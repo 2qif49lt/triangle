@@ -1,2 +1,2 @@
 # triangle
-qrohlf/trianglify rewrite in EC6
+qrohlf/trianglify rewrite in ES6
